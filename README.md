@@ -2,6 +2,43 @@
 
 A highly opinionated guide to the libraries, tools and other stuff used by God's gift to JavaScript, Alan Russell.
 
+<!-- toc -->
+
+- [Philosophy](#philosophy)
+- [Front end](#front-end)
+  * [React Testing Library](#react-testing-library)
+  * [Vite](#vite)
+  * [React Query](#react-query)
+  * [React Hook Form](#react-hook-form)
+  * [Storybook](#storybook)
+  * [MSW](#msw)
+  * [React Icons](#react-icons)
+- [Backend](#backend)
+  * [Sanity](#sanity)
+  * [NestJS](#nestjs)
+  * [Prisma](#prisma)
+- [Online tools](#online-tools)
+  * [Can I Use...](#can-i-use)
+  * [SpinKit](#spinkit)
+  * [UI Gradients](#ui-gradients)
+  * [Type Scale Generator](#type-scale-generator)
+  * [RegExr](#regexr)
+  * [explainshell](#explainshell)
+  * [Learn X in Y Minutes](#learn-x-in-y-minutes)
+- [Other JavaScript stuff](#other-javascript-stuff)
+  * [Jest](#jest)
+  * [D3](#d3)
+  * [P5.js](#p5js)
+  * [Three.js](#threejs)
+  * [Tone.js](#tonejs)
+- [Not JavaScript](#not-javascript)
+  * [Processing](#processing)
+  * [SuperCollider](#supercollider)
+  * [Sonic Pi](#sonic-pi)
+- [The Future](#the-future)
+
+<!-- tocstop -->
+
 ## Philosophy
 
 - [Red, Green, Refactor](https://www.codecademy.com/article/tdd-red-green-refactor)
